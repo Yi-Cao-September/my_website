@@ -1,12 +1,12 @@
 # Site settings
-baseURL = "http://example.org/"
+baseURL = "https://yicao.netlify.app"
 languageCode = "en-us"
 title = "Portfolio website for Yi Cao"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
-
+  
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
 
@@ -81,7 +81,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Yi Cao"
+    title = "Hi, my name is Yi Cao 1"
     subtitle = "This is my portfolio website."
     buttonText = "Get Started"
 
